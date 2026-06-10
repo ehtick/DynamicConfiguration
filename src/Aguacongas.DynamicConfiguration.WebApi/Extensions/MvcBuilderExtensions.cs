@@ -1,5 +1,5 @@
 ﻿// Project: Aguafrommars/DynamicConfiguration
-// Copyright (c) 2021 @Olivier Lefebvre
+// Copyright (c) 2026 @Olivier Lefebvre
 
 using Aguacongas.DynamicConfiguration.Formatters;
 using Aguacongas.DynamicConfiguration.Options;
