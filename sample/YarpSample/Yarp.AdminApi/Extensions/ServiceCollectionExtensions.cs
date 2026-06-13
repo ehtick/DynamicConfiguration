@@ -1,5 +1,5 @@
 ﻿// Project: Aguafrommars/DynamicConfiguration
-// Copyright (c) 2021 @Olivier Lefebvre
+// Copyright (c) 2026 @Olivier Lefebvre
 
 using Aguacongas.DynamicConfiguration.Abstractions;
 using Microsoft.Extensions.PlatformAbstractions;
